@@ -70,7 +70,7 @@ def tlm_2(doc):
     return (w for w in tlm_analyzer_2(doc) if w not in string.punctuation)
 
 st.title("Case Prediction Tool")
-st.info('Curious about this tool? Check out its github repository @')
+st.info('Curious about this tool? Find more details @ github.com/shebna12/case-prediction-tool')
 user_input = st.text_input("Paste your case text here.", "")
 if(len(user_input) == 0):
 	st.error("Please input your text")
