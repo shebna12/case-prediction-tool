@@ -15,17 +15,17 @@ from nltk.stem import WordNetLemmatizer
 from nltk import pos_tag, word_tokenize
 import string
 import nltk
-# nltk.download('stopwords')
-# from nltk.corpus import stopwords
-# nltk.download('wordnet')
-# import advertools as adv
-# from nltk.stem.snowball import SnowballStemmer
-# nltk.download('omw')
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+nltk.download('wordnet')
+import advertools as adv
+from nltk.stem.snowball import SnowballStemmer
+nltk.download('omw')
 
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 import string
 
 from nltk.corpus import stopwords
