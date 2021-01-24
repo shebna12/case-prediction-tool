@@ -1,0 +1,7 @@
+nltk==3.5
+numpy==1.19.5
+advertools==0.10.7
+streamlit==0.74.1
+joblib==1.0.0
+matplotlib==3.3.3
+scikit_learn==0.24.1
