@@ -3,7 +3,7 @@ This repository contains the case decision tool app trained on the Supreme Court
 
 Check it out @ https://share.streamlit.io/shebna12/case-prediction-tool/main/case_pred.py
 
-## In case the app crashes, you can run this locally by:
+## In case the app link above crashes, you can run this locally by:
 1. Clone the repository
 2. Open your terminal on the folder directory.
 3. Type in your terminal, `pip install -r requirements.txt` . Press Enter.
