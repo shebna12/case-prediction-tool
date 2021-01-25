@@ -20,7 +20,7 @@ tization and stemming, and choice of N-grams are evaluated on
 how a specific combination of feature extraction method affect the
 Support Vector Machine and Artificial Neural Network Models. The
 best performing system (TF-IDF + lemmatization + bigrams + SVM)
-achieves an overall accuracy of 91.80% and an F1-score of 95% when classifying criminal cases into two case decision categories.
+achieves an **overall accuracy of 91.80%** and an **F1-score of 95%** when classifying criminal cases into two case decision categories.
 
 ##  Note:
  - The full paper for this project is currently under review for conference submission. Kindly stay tuned for more updates in the future.
